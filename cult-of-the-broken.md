@@ -20,9 +20,9 @@ Type: Raid
 DC: 4
 ```
 ```
-Name: Cult Fanatics
+Name: Cult Leader
 Type: Raid
-DC: 4
+DC: 6
 ```
 ### Events
 ```
