@@ -29,14 +29,14 @@ DC: 6
 Name: The Cult of the broken
 Type: Scenario Event
 Trigger: Takes place during enemy phase
-Eeffect: Lose 1 morale. If the morale is below neutral (0) lose one trained worker of your choice and spawn a Cult Ritual (Raid) randomly using d6/d4.
+Every Round: Lose 1 morale. If the morale is below neutral (0) lose one trained worker of your choice and spawn a Cult Ritual (Raid) randomly using d6/d4.
 Resolve: Difficulty 5. Confront the cultists with diplomacy offering gold and privilges if they betray their cause. If you resolve this event draw and put in effect the event `Unmasking the cult`
 ```
 ```
 Name: Unmasking the cult"
 Type: Scenario Event
 Trigger: Takes place during enemy phase
-Eeffect: Spawn a Cult Leader (Raid) randomly using d6/d4.
+Once: Spawn a Cult Leader (Raid) randomly using d6/d4.
 Resolve: The leader and his close followers are too far gone to be apeased. Take their lives to spare the lives of the rest of the citizens of Aeolis!
 ```
 
