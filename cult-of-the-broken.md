@@ -66,7 +66,7 @@ Resolve: The leader and his close followers are too far gone to be apeased. Take
 2. Blessing
 
 ### 5. Fifth Round
-> A man named Diodotus has risen among the Northeners the Priestess is a false prophet and that recent disasters in Aeolis are proof the gods angry. He is recruiting members in his cult of the broken who refuse to accept the institution of offering blood thralls to the Priestess. They promise to take their revenge and stop her once and for all. Initially dismissed as superstition by the people this movement is gaining ground. Its name is the Cult of the broken and it claims itself an advocate for those left out bt the Elite of Aeolis. Its followers usually flee their everyday life and work to devote themselves to the Cult. They spend their days raiding those who still have faith to the Priestess all around the fields of Aeolis.
+> A man named Diodotus has risen among the Northeners claiming the Priestess is a false prophet and that recent disasters in Aeolis are proof the gods anger. He is recruiting members in his cult. They refuse to accept the institution of offering blood thralls to the Priestess. They promise to take their revenge and stop her once and for all. Initially dismissed as superstition by the people this movement is now gaining ground. Its name is the Cult of the broken and it claims itself an advocate for those left out bt the Elite of Aeolis. Its followers usually flee their everyday life and work to devote themselves to the Cult. They spend their days raiding those who still have faith to the Priestess all around the fields of Aeolis.
 #### Events
 1. The Cult of the broken (Scenario Card)
 
